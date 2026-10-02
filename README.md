@@ -1,4 +1,4 @@
-# edgevision-deepstream# EdgeVision
+
 
 ### Multi-Camera Real-Time Perception on NVIDIA Jetson using GStreamer, NVIDIA DeepStream and TensorRT
 
